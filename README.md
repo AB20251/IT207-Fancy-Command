@@ -1,3 +1,7 @@
+## Author.  
+Amanuel Bekele.  
+IT 207 : Node.js
+
 # IT207-Fancy-Command
 Created a fancy command that implemented LS &amp; WC Linux Filesystem Commands
 # Section 1 - Command Description.
