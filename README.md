@@ -33,15 +33,15 @@ The program shoud list all the files and a count of 10.
 To view your own folders, copy the folder path and replace "TestFiles" with your own folder path in parantheses.  
 RUN: node dirView.js "folderpath"
 # Section 2 - AI Assisted Programming.
-## What I asked AI.  
+## What I asked AI  
 
 I asked AI questions whenever I encountered errors or wanted to verify if my command extended the functionality of the ls or wc commands. Overall, I aksed the chatbot questions one would ask a tutor to help answer any questions or to explain errors received.
-## Where AI helped.
+## Where AI helped
 AI helped generate test cases and better understand the Linux commands.  
 
 Regarding the test cases, I asked a chatbot to provide two test scenarios that identified possible edge cases that would cause the script to fail.  
 Regarding Linux commands, I asked a chatbot to explain the fuctionality of the Linux commands to better undsertand how to implement them in node js.
-## Where I had to think independently.  
+## Where I had to think independently  
 
 Drafting the structure and logic of the script is where I had to think independently. A chatbot can generate a solution, but it wont always adhere to the coding structure taught in class. In class, we learned how to take command line arguements and store them into variables. Addtionally, we learned how to verify the correct invocation of the script. Overall, coding the program and linking my implementation to our course materials is where I had to think independently.
 
