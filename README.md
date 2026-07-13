@@ -1,4 +1,4 @@
-## Author.  
+## Author  
 Amanuel Bekele.  
 IT 207 : Node.js
 
@@ -24,12 +24,12 @@ Navigate to Folder Directory.
 To run my command invoke the script in the file directory containing "dirView.js".  
 RUN: node dirView.js "<folder_path>" || Make sure folder path or name is in parentheses.
 
-## Testing the script.
+## Testing the script
 I have included a Test Folder in the script directory to verify that the script works.  
 RUN: node dirView.js "TestFiles"  
 The program shoud list all the files and a count of 10.
 
-## Running the script on your files.
+## Running the script on your files
 To view your own folders, copy the folder path and replace "TestFiles" with your own folder path in parantheses.  
 RUN: node dirView.js "folderpath"
 # Section 2 - AI Assisted Programming.
