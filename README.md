@@ -3,9 +3,9 @@ Amanuel Bekele.
 IT 207 : Node.js
 
 # IT207-Fancy-Command
-Created a fancy command that implemented LS &amp; WC Linux Filesystem Commands
+Created a fancy command that implemented LS Linux Filesystem Command.
 # Section 1 - Command Description.
-## The main functionality of my Fancy command is to replicate the Linux ls and WC commands by listing the contents of the given directory and extending it to display the count of it.
+## The main functionality of my Fancy command is to replicate the Linux ls command by listing the contents of the given directory and extending it to display the count of it.
 ## Before Running
  Ensure node js is installed.
 
