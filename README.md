@@ -18,7 +18,7 @@ Navigate to Folder Directory.
 
 ## How to Run Command
 To run my command invoke the script in the file directory containing "dirView.js".  
-RUN: node dirView.js "<folder_path>"
+RUN: node dirView.js "<folder_path>" || Make sure folder path or name is in parentheses.
 
 ## Testing the script.
 I have included a Test Folder in the script directory to verify that the script works.  
